@@ -355,7 +355,7 @@ B) Coordinar de inmediato una inspección de urgencia con la dependencia de serv
 C) Archivar la queja de forma preventiva hasta que el ciudadano presente un dictamen pericial técnico que demuestre la contaminación.
 **Respuesta: A B C (O O O)
 
-Problema 54: Si la fórmula matemática descrita en el papel del ciudadano indica que las variables eran inexistentes y la fórmula aplicada fue $Valor = Base \times (1 + 0.05 \times DíasRetraso)$, ¿cuál fue el valor real cobrado por error y cuánto debió ser si los días de retraso reales eran cero?
+Problema 54: Si la fórmula matemática descrita en el papel del ciudadano indica que las variables eran inexistentes y la fórmula aplicada fue Valor = Base x (1 + 0.05 x DíasRetraso), ¿cuál fue el valor real cobrado por error y cuánto debió ser si los días de retraso reales eran cero?
 A) Cobrado: $40.000; Real: $10.000. El error implicó un cobro de 4 veces el valor base.
 B) Cobrado: $30.000; Real: $15.000. El error implicó el doble del valor base.
 C) Cobrado: $40.000; Real: $20.000. El error implicó un aumento del 100%.
