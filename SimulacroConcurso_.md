@@ -593,3 +593,5 @@ A) Dejar constancia escrita y radicada de su salvamento de voto o disenso técni
 B) Presentar un recurso de reposición en subsidio de apelación en contra del acto administrativo firmado por el Director de la CAR.
 C) Modificar su informe técnico original para alinearlo con la resolución del Director, acatando el principio de jerarquía administrativa.
 Respuesta: A B C (O O O)
+
+
